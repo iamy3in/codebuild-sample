@@ -78,8 +78,7 @@
         >
           awesome-vue
         </a>
-      </li>      
-      <h1>MY SECOND DEPLOY</h1>
+      </li>
     </ul>
   </div>
 </template>
