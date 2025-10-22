@@ -78,10 +78,10 @@
         >
           awesome-vue
         </a>
-      </li>
+      </li>      
+      <h1>MY SECOND DEPLOY</h1>
     </ul>
   </div>
-  <h1>my second deploy</h1>
 </template>
 
 <script>
